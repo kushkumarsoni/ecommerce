@@ -1,1 +1,1 @@
-# Hello this is ecommerce
+# In this tutorial we will create a ecommerce application
